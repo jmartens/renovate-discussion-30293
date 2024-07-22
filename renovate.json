@@ -1,1 +1,3 @@
-{}
+{                                                                                                                                                                                                                     
+    "extends": ["local>jonathanmartens/renovate-config:default.json5"],
+}
